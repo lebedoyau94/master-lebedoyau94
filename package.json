@@ -1,0 +1,13 @@
+{
+    "name": "my-github-app",
+    "version": "1.0.0",
+    "description": "Node.js app to fetch popular repositories from GitHub",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "express": "^4.17.1"
+    }
+}
